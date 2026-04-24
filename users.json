@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "pass": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin"
+    },
+    "kriangkrai": {
+        "pass": "097d6ef3f32cd71082496a692f4429cae492e76683d76d373204d22e64ed89cd",
+        "role": "admin"
+    }
+}
