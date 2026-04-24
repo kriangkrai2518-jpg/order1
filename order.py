@@ -5,8 +5,8 @@ import hashlib
 
 # --- 1. CONFIGURATION (ล้าง ID ให้เหลือแต่ตัวที่ถูกต้องเป๊ะๆ ครับ) ---
 # ผมตัดตัว 'K' ที่เกินมาออกให้แล้วครับพี่เกรียง
-SHEET_ID = "1Km8Y3C-eW061BEA_wqMxTw55tER0JHEvBjcyYOg4Vk" 
-
+SHEET_ID = "1KmK8Y3C-eW061BEA_wqMxTw55tER0JHEvBjcyYOg4Vk" 
+            
 # GID ชุดเดิมที่พี่ตรวจสอบแล้วว่าถูกต้อง
 GID_USERS = "0"
 GID_CONFIG = "127521360"
